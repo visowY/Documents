@@ -14,3 +14,15 @@
 
 * 两种编辑模式
     1. Blueprint mode: 用于控制UI物体的Rect是否进行与UI物体的缩放旋转自动包含适应。
+
+## <center>2.Canvas</center> 
+
+* Canvas的3种渲染模式
+
+
+* UI&像素的对应关系
+
+* ConstantPixelSize 模式下的UI适配
+ 
+
+* 常用UI适配方式
