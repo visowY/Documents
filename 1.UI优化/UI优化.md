@@ -49,3 +49,8 @@
 
 * UV坐标的概念： 贴图映射到物体表面的坐标
     左下为原点， 
+
+* 使用RawImage 将 3d物体显示在UI上
+
+
+## <center>4.交互组件基类 Selectable</center>
